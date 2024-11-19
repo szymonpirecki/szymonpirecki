@@ -5,8 +5,8 @@ specialization: Test Automation, Problem Solving
 philosophy: There's always room for improvement—just give it to me for testing.
 
 languages:
-  proficient: Java
-  learning: Python
+  - Java
+  - Python
 
 projects:
   - Test automation repositories showcasing best practices and techniques.
