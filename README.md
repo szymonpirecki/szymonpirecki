@@ -1,6 +1,6 @@
 ```yaml
 user_name: Szymon Pirecki
-in_testing_since: 2021
+in_automation_since: 2021
 specialization: Test Automation, Problem Solving
 philosophy: There's always room for improvement—just give it to me for testing.
 
