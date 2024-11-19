@@ -1,5 +1,16 @@
-## Hey there! 👋
+# Szymon Pirecki  
 
-I've been fascinated by test automation since 2021. There's something really enjoyable about coding in Java and tackling tricky problems. I'm all about growing and learning new things, and you can see some of the code I've written on my journey in automation below.
+**In Testing Since:** 2021  
+**Specialization:** Test Automation, Problem Solving  
+**Philosophy:** There's always room to improve—just let me test it!  
 
-Feel free to take a look around and see what I've been up to. Every piece of code here tells a story of my learning curve and my excitement for this ever-evolving field!
+## Languages  
+- **Proficient:** Java  
+- **Learning:** Python  
+
+## Projects  
+- Pinned repositories showcasing my approach to test automation using best practices and techniques.  
+- Scripts created to automate tasks beyond testing and make workflows more efficient.  
+
+## Message  
+Explore my repositories to see the evolution of my skills and my dedication to mastering automation.
