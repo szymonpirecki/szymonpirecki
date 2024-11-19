@@ -9,7 +9,7 @@ languages:
   learning: Python
 
 projects:
-  - Pinned repositories showcasing my approach to test automation using best practices and techniques.
-  - Scripts created to automate tasks beyond testing and make workflows more efficient.
+  - Test automation repositories using best practices and techniques.
+  - Scripts to automate repetitive tasks and optimize workflows.
 
 message: Explore my repositories to see the evolution of my skills and my dedication to mastering automation.
