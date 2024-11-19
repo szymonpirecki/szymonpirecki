@@ -1,5 +1,3 @@
-# Szymon Pirecki
-
 ```yaml
 user_name: Szymon Pirecki
 in_testing_since: 2021
