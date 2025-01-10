@@ -11,5 +11,3 @@ languages:
 projects:
   - Test automation repositories showcasing best practices and techniques.
   - Scripts designed to automate repetitive tasks and optimize workflows.
-
-message: Explore my repositories to see the evolution of my skills and my dedication to mastering automation.
