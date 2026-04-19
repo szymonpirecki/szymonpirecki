@@ -6,8 +6,8 @@ philosophy: There's always room for improvement—just give it to me for testing
 
 languages:
   - Java
-  - Python
   - TypeScript
+  - Python
 
 projects:
   - Test automation repositories showcasing best practices and techniques.
